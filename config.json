@@ -1,0 +1,23 @@
+{
+    "token": "MTAyNDAxNDY0MjEzMDk4MDg4NQ.G1Y3jV.87Hq4pPPJ0HN3CyY6A7CR8HpUzLtT0E8J5gsIQ",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "i am here",
+            "i have power",
+            "i kill",
+            "i fuck"
+        ],
+        "roles_name": [
+            "fuck your sister",
+            "fuck you mather",
+            "fuck all"
+        ],
+        "messages_content": [
+            "i am here @everyone ",
+            "i have power @everyone ",
+            "i kill@ everyone ",
+            "i fuck @everyone "
+        ]
+    }
+}
